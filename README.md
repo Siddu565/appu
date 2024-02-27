@@ -5,12 +5,7 @@
  <ol> 
 <li> State-Transition testing is the one of the black box testing & desing techniques which can be used to derive test cases (or) test for the application functions which go through several states 
     </li> 
-</ol> 
-<ol>
-   <li>APPLICATION FUNCTIONALITIES
-    <li>SEVERAL STATES</li></li>
-</ol>
-    <pr>For example let us look in to net banking software <br>
+ <pr>For example let us look in to net banking software <br>
     when you visit a site you can see a login details </pr>
 
    <style>
